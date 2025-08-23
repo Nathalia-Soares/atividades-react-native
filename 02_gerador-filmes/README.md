@@ -22,10 +22,10 @@ Um aplicativo React Native que sugere filmes aos usuários com base em suas pref
 
 ### 😂 Comédia
 - Superbad (2007)
-- Bridesmaids (2011)
-- The Hangover (2009)
-- Shaun of the Dead (2004)
-- Groundhog Day (1993)
+- Missão Madrinha de Casamento (2012)
+- Se Beber, Não Case! (2009)
+- Todo Mundo Quase Morto (2009)
+- Feitiço do Tempo (2018)
 
 ### 🎭 Drama
 - Forrest Gump (1994)
@@ -38,7 +38,7 @@ Um aplicativo React Native que sugere filmes aos usuários com base em suas pref
 - Interestelar (2014)
 - Blade Runner (1982)
 - Ex Machina (2014)
-- Arrival (2016)
+- Arrival - A Chegada (2016)
 - Her (2013)
 
 ### 👻 Terror
