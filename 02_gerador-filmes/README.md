@@ -123,34 +123,6 @@ O aplicativo utiliza um algoritmo simples mas eficaz:
 - Android 5.0+
 - Web (Chrome, Firefox, Safari)
 
-## 🔧 Estrutura do Código
-
-```javascript
-// Base de dados organizada por gênero
-const filmesPorGenero = {
-  acao: [...],
-  comedia: [...],
-  drama: [...],
-  ficcao: [...],
-  terror: [...]
-};
-
-// Configuração dos gêneros
-const generos = [
-  { id: 'acao', nome: 'Ação', cor: '#E74C3C', icone: '💥' },
-  // ...
-];
-```
-
-## 🎯 Próximas Funcionalidades
-
-- [ ] Sistema de favoritos
-- [ ] Filtros por ano de lançamento
-- [ ] Avaliações dos usuários
-- [ ] Trailer dos filmes
-- [ ] Mais gêneros e filmes
-- [ ] Histórico de recomendações
-
 ## 📄 Licença
 
 Este projeto é apenas para fins educacionais. Os filmes mencionados são propriedade de seus respectivos estúdios e distribuidores.
