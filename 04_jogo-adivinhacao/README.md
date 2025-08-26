@@ -53,7 +53,7 @@ Um jogo interativo desenvolvido em React Native onde o jogador deve adivinhar um
 
 1. **Clone o repositório:**
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Nathalia-Soares/atividades-react-native.git
 cd 04_jogo-adivinhacao
 ```
 

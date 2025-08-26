@@ -14,22 +14,29 @@ Um aplicativo React Native para calcular o Índice de Massa Corporal (IMC) com i
 - **Validação de dados**: Verifica se os valores inseridos são válidos
 - **Responsivo**: Funciona em diferentes tamanhos de tela
 
-## 🚀 Como executar
+### Passos para Instalação
 
-1. **Instalar dependências**:
-   ```bash
-   npm install
-   ```
+1. **Clone o repositório:**
+```bash
+git clone https://github.com/Nathalia-Soares/atividades-react-native.git
+cd 01_calculadora-imc
+```
 
-2. **Iniciar o aplicativo**:
-   ```bash
-   npm run web
-   ```
+2. **Instale as dependências:**
+```bash
+npm install
+```
 
-3. **Executar no dispositivo/emulador**:
-   - Pressione `a` para Android
-   - Pressione `i` para iOS
-   - Pressione `w` para Web
+3. **Execute o projeto:**
+```bash
+npx run web
+```
+
+4. **Acesse no dispositivo:**
+- Use o app Expo Go no seu smartphone
+- Escaneie o QR Code exibido no terminal
+- Ou pressione 'a' para abrir no emulador Android
+- Ou pressione 'i' para abrir no emulador iOS
 
 ## 📋 Como usar
 

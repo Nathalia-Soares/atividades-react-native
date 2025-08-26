@@ -79,24 +79,31 @@ O aplicativo utiliza uma paleta de cores cuidadosamente escolhida:
 - **Dourado**: `#D4AF37` - Barra de progresso e elementos de destaque
 - **Branco**: `#E2EBE3` - Textos sobre fundos escuros
 
-## 🚀 Como Usar
+### Passos para Instalação
 
-### 1. Instalação
+1. **Clone o repositório:**
 ```bash
-# Clone o repositório
-git clone [URL_DO_REPOSITORIO]
-
-# Navegue até o diretório do projeto
+git clone https://github.com/Nathalia-Soares/atividades-react-native.git
 cd 06_rastreamento-exercicios
+```
 
-# Instale as dependências
+2. **Instale as dependências:**
+```bash
 npm install
+```
 
-# Inicie o servidor de desenvolvimento
+3. **Execute o projeto:**
+```bash
 npx run web
 ```
 
-### 3. Uso do Aplicativo
+4. **Acesse no dispositivo:**
+- Use o app Expo Go no seu smartphone
+- Escaneie o QR Code exibido no terminal
+- Ou pressione 'a' para abrir no emulador Android
+- Ou pressione 'i' para abrir no emulador iOS
+
+### Uso do Aplicativo
 
 1. **Adicione atividades**:
    - Digite o nome da atividade
