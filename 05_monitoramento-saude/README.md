@@ -49,24 +49,31 @@ O aplicativo utiliza uma paleta de cores cuidadosamente escolhida:
 - **Terciária**: `#136B69` (Verde azulado) - Labels e elementos secundários
 - **Escura**: `#024053` (Azul escuro) - Header e títulos
 
-## 🚀 Como Usar
+### Passos para Instalação
 
-### 1. Instalação
+1. **Clone o repositório:**
 ```bash
-# Clone o repositório
-git clone [URL_DO_REPOSITORIO]
-
-# Navegue até o diretório do projeto
+git clone https://github.com/Nathalia-Soares/atividades-react-native.git
 cd 05_monitoramento-saude
+```
 
-# Instale as dependências
+2. **Instale as dependências:**
+```bash
 npm install
+```
 
-# Inicie o servidor de desenvolvimento
+3. **Execute o projeto:**
+```bash
 npx run web
 ```
 
-### 3. Uso do Aplicativo
+4. **Acesse no dispositivo:**
+- Use o app Expo Go no seu smartphone
+- Escaneie o QR Code exibido no terminal
+- Ou pressione 'a' para abrir no emulador Android
+- Ou pressione 'i' para abrir no emulador iOS
+
+### Uso do Aplicativo
 
 1. **Abra o aplicativo** no seu dispositivo ou emulador
 2. **Preencha os campos** com valores de 1 a 10:
